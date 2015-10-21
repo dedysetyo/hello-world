@@ -16,3 +16,4 @@ Feature2 changes
 >>>>>>> origin/master
 sharing remotely is fun and easy
 >>>
+Added new text
