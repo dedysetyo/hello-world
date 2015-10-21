@@ -14,3 +14,4 @@ Feature1
 Feature2
 Feature2 changes
 >>>>>>> origin/master
+sharing remotely is fun and easy
