@@ -17,3 +17,4 @@ Feature2 changes
 sharing remotely is fun and easy
 >>>
 Added new text
+Testing out git
